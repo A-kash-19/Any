@@ -7,6 +7,7 @@ from models.openai_client import client_creator
 
 with open(r"C:\Hosting Projects\Chatmate\testing.wav", "rb") as f:
     # audio_file_like = BytesIO(f.read())
+    #anything
 
 
     client = client_creator()
