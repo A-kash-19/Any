@@ -1,0 +1,10 @@
+flask
+azure-identity
+openai
+Pillow
+pyttsx3
+flask-login
+flask-wtf
+flask-sqlalchemy
+Flask-Migrate
+werkzeug
